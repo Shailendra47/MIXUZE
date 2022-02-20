@@ -1,2 +1,2 @@
 # MIXUZE
-Smart data project02_Udemy course
+Bootstarp5 project (Udemy course)
